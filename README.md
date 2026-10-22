@@ -1,0 +1,1 @@
+# sealdex-registry
